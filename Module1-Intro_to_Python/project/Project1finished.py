@@ -250,6 +250,12 @@ def averageWilderness(x):
 
 
 def main():
+    """
+    This function, in this specific case, is set up for printing our results. 
+    
+    It does not take parameters. 
+    
+    """
     
     #Create a file to store results
     Results_file=open("ResultsFile.txt", "w")

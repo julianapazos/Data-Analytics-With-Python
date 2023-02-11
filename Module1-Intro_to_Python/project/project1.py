@@ -56,10 +56,7 @@ def main ():
     if __name__ == "__main__":
     main()
 
-col=0
 
-
-col1=col1+
 
 
 
